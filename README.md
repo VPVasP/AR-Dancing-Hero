@@ -5,4 +5,4 @@ AR Dancing Hero is an augmented reality (AR) application built with the Unity En
 2. Open the Project in Unity Hub using Unity Version 2022.3.20f1
 
 ## Gameplay Screenshots
-![Screenshots](https://img.itch.zone/aW1hZ2UvMjUwOTc4NC8xNDkxNjEwNy5wbmc=/original/EA5iU5.png)
+![Screenshot 1](dancinghero_magicstudio_myisjltcm4p.png)
